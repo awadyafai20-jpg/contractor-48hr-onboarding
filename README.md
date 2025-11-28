@@ -12,5 +12,6 @@ Zero-touch provisioning + audit-proof offboarding for 500+ external users per mo
 - Offboarding errors: 31% → 0%  
 - Audit findings eliminated: 100%
 
-Originally published by Nexlify Innovations  
+Originally published by Nexlify Innovations Inc
+
 License: MIT
