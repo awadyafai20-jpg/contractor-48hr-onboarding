@@ -1,0 +1,8 @@
+<Rule name="Contractor Birthright">
+  <Source><![CDATA[
+    if (identity.getAttribute("employeeType").equals("Contractor")) {
+      identity.addEntitlement("Contractor-Basic-Access");
+      identity.addEntitlement("Email-Guest");
+    }
+  ]]></Source>
+</Rule>
