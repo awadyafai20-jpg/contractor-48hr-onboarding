@@ -1,0 +1,9 @@
+JSON
+{
+  "name": "48-Hour Contractor Onboarding",
+  "steps": [
+    { "action": "Create Identity in SailPoint", "trigger": "Form Submission" },
+    { "action": "Send Self-Service Catalog", "delay": "5 minutes" },
+    { "action": "Auto-Expire Access", "on": "contractEndDate" }
+  ]
+}
